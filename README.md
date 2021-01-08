@@ -6,3 +6,6 @@ In this task, I interfaced with relevant financial data feed and made the necess
 
 ## Project 2 : Implement the Perspective open source library in prepearation for data visualization
 This task was an extension of the previous one where I integrated JP Morgan Chase's `Perspective` library to manipulate the previously computed data feeds and periodically update and display them visually using `React`.
+
+## Project 3 : Display data visually for traders
+This task was pretty trivial. It simple involved improving the UI/UX and adding additional functionality.
